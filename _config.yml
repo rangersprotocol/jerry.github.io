@@ -11,7 +11,7 @@ description: A display portal of MixMarvel Foundation
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://jerry123.github.io/"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -20,7 +20,7 @@ description: A display portal of MixMarvel Foundation
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://jerry123.org"
+  Home: "https://jerry123.github.io/"
   More infornmation:
     - Offical website: "http://www.mixmarvel.com"
     - Try HyperDragons: "https://hyperdragons.alfakingdom.com/"
